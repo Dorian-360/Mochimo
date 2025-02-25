@@ -32,5 +32,3 @@ chmod +x gpuminer
 
 ✅ **Votre miner est maintenant en cours d'exécution ! Bonne extraction ! ⛏️💰**
 ```
-
-Tu peux **copier-coller** ce texte brut dans ta release GitHub afin que les utilisateurs puissent facilement suivre les instructions ! 🚀🔥
