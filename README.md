@@ -1,7 +1,7 @@
 # Mochimo
 Voici ton script en format brut, bien formulé et prêt à être mis dans ta **release GitHub** 🚀:
 
-```
+
 📥 Téléchargement et installation de Mochimo
 
 1️⃣ **Téléchargez l'archive :**
